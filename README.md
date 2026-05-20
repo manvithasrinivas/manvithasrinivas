@@ -135,9 +135,7 @@ Created an automated embedded solution for scheduled pet feeding.
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/manvitha-srinivas-8bab56376
-
-">
+<a href="www.linkedin.com/in/manvitha-srinivas-8bab56376">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
